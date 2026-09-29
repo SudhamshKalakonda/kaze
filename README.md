@@ -2,4 +2,5 @@ An open-source AI companion for any website. Drop a single HTML script tag and a
 
 Built with pure vanilla JavaScript and zero dependencies. It supports multiple AI providers including Groq (Llama 3.3 70B), OpenAI, Anthropic, and Gemini. Fully configurable via data attributes with a strict focus on local privacy (API keys stay in the browser).
 
-3 Action figures that move and jump on your website. 
+3 cool Action figures that move and jump on your website. 
+
